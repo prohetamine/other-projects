@@ -29,3 +29,5 @@
 [видео](https://youtu.be/rO0jn3X0mqw) | [видео](https://youtu.be/T77yLpTPBh4)
 
 ![Alt Text](/proj3.gif)
+
+... продолжение следует ...
